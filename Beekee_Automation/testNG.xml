@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite configfailurepolicy="continue" name="Suite" parallel="none">
+	<test name="Regression" preserve-order="true">
+		<classes>
+
+			<class name="com.sasretail.webscripts.SAS_Admin_LoginLogoutApplication" />
+
+		</classes>
+		<methods>
+			<include name="installApk" priority="104" />
+		</methods>
+	</test>
+	<listeners>
+		<listener
+			class-name="atu.testng.reports.listeners.ATUReportsListener" />
+		<listener
+			class-name="atu.testng.reports.listeners.ConfigurationListener" />
+		<listener
+			class-name="atu.testng.reports.listeners.MethodListener" />
+	</listeners>
+</suite>

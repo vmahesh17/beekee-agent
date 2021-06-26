@@ -1,0 +1,43 @@
+###APP DETAILS##
+app.appname=RE_QA_1_4_28.apk
+app.deviceName =Pixel_3_XL
+app.platformName =Android
+app.platformVersion =8.1
+app.package=com.beekee.realestate
+app.activity=com.beekee.realestate.MainActivity
+app.webView=WEBVIEW_com.beekee.realestate
+
+
+###   , OPPO A3s 8.1.0 Pixel_3_XL
+
+### ACCOUNT ###
+username=AutoUser
+password=Pass@123
+
+agent.email = atagent4681439@yopmail.com
+agent.username =newat53444444
+agent.password= Pass@123
+agent.password= Pass@123
+
+## SignUp #########
+agent.fname=Atfirst
+agent.lname=Atlast
+agent.title=Mr
+agent.phNumber=8169730940
+agent.streetAddess=Test Address
+agent.city= Hyderabad
+agent.state= AL
+agent.zip=1010
+agent.referralCode=dchwaqlu
+agent.confirmpassword=Pass@123
+
+### Data ###
+agent.newuser = atagent4681439
+agent.signupuser=
+agent.datauser=nagent00005@yopmail.com
+##
+ ##Freshuser = nagent000010@yopmail.com
+ ##DataUser = nagent00005@yopmail.com
+ ##
+ 
+
